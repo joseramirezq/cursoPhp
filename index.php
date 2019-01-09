@@ -1,23 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Curso Php</title>
-</head>
-<body>
-    <h3></h3>
-
-    <?php 
-        $hola="Esto es un archivo Php";
-        echo $hola ;    
-
-        phpinfo();
-
-        ?>
-        
-        <?php
-    ?>
-</body>
-</html>
+<?php
+/*Creacion de variables*/ 
+$variable= "Hello Word";
+$variablenumero= 1993;
+?>
